@@ -8,7 +8,7 @@
             Padding="30,0"
             Spacing="25">
             <Image
-                Source="spacex.png"
+                Source="space_x.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
                 SemanticProperties.Description="dot net bot in a race car number eight" />
@@ -19,10 +19,10 @@
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
-                Text="Bine ai venit in aplicatia mea"
+                Text="Vrem sa ajungem pe Marte!"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+                SemanticProperties.Description="Welcome!" />
 
             <Button
                 x:Name="CounterBtn"
